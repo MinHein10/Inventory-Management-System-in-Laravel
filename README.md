@@ -11,20 +11,50 @@
 <h3 align="center">Design Diagram for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem1.png" width="400"></p>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem2.png" width="400"></p>
+
+<h3 align="center">Login Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem3.png" width="400"></p><br>
+
+<h3 align="center">Register Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem4.png" width="400"></p><br>
+
+<h3 align="center">Dashboard Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem5.png" width="400"></p><br>
+
+<h3 align="center">Dashboard Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem6.png" width="400"></p><br>
+
+<h3 align="center">Categories Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem7.png" width="400"></p><br>
+
+<h3 align="center">Inserting Category Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem8.png" width="400"></p><br>
+
+<h3 align="center">Products Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem9.png" width="400"></p><br>
+
+<h3 align="center">Inserting Products Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem10.png" width="400"></p><br>
+
+<h3 align="center">Supplier Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem11.png" width="400"></p><br>
+
+<h3 align="center">Stock In Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem12.png" width="400"></p><br>
+
+<h3 align="center">Stock Out Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem13.png" width="400"></p><br>
+
+<h3 align="center">Blog Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem14.png" width="400"></p><br>
+
+<h3 align="center">Gallery Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem15.png" width="400"></p><br>
+
+<h3 align="center">Developer About Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem16.png" width="400"></p><br>
+
+<h3 align="center">Customer Page for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem17.png" width="400"></p><br>
 
 ## About Laravel
