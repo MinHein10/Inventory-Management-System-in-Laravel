@@ -8,6 +8,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 <br>
+<h3 align="center">Design Diagram for Inventory System</h3>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem1.png" width="400"></p>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem2.png" width="400"></p>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem3.png" width="400"></p><br>
