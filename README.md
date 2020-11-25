@@ -9,7 +9,7 @@
 </p>
 <br>
 <h3 align="center">Design Diagram for Inventory System</h3>
-<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem1.png" width="400"></p>
+<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem1.png" ></p>
 <p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem2.png" width="400"></p>
 
 <h3 align="center">Login Page for Inventory System</h3>
