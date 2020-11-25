@@ -8,7 +8,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 <br>
-<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem1.png" width="400"></p>
+<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem1.png" width="400"></p><br>
+<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem2.png" width="400"></p><br>
+<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem3.png" width="400"></p><br>
+<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem4.png" width="400"></p><br>
+<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem5.png" width="400"></p><br>
+<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem6.png" width="400"></p><br>
+<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem7.png" width="400"></p><br>
+<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem8.png" width="400"></p><br>
+<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem9.png" width="400"></p><br>
+<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem10.png" width="400"></p><br>
+<p align="center"><img src="https://github.com/MinHein10/Inventory-Management-System-in-Laravel/blob/main/inventorysystem11.png" width="400"></p><br>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
