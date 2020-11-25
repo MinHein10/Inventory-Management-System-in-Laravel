@@ -1,5 +1,5 @@
 <h1 align="center">Inventory Management System using Laravel</h1> 
-<p align="center"><img src="https://drive.google.com/file/d/1omHxQFCFQBGNWuK0iJyO4OA0e-srYzEA/view?usp=sharing" width="400"></p>
+<p align="center"><img src="https://www.tvisha.com/data/category_images/inventory-management-system.png" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
